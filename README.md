@@ -7,9 +7,6 @@
 ## 📊 Current Status
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=daenoeyh)](https://solved.ac/daenoeyh)
-**현재 티어**: `Bronze V` 
-**목표 티어**: `Platinum V  `
-**총 해결 문제**: 0문제
 
 ---
 
